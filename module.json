@@ -1,0 +1,25 @@
+{
+    "id": "scrumptious-dice",
+    "name": "scrumptious-dice",
+    "title": "Scrumptious Dice",
+    "description": "A set of meme textures for my discord community.",
+    "authors": [{ "name": "razage" }],
+    "version": "1.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10.291"
+    },
+    "scripts": ["scrumptious.js"],
+    "relationships": {
+        "requires": [
+            {
+                "id": "dice-so-nice",
+                "type": "module"
+            }
+        ]
+    },
+    "license": "LICENSE.txt",
+    "url": "https://github.com/razage/scrumptious-dice",
+    "manifest": "",
+    "download": ""
+}
