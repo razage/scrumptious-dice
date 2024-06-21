@@ -4,10 +4,10 @@
     "title": "Scrumptious Dice",
     "description": "A set of meme textures for my discord community.",
     "authors": [{ "name": "razage" }],
-    "version": "1.1",
+    "version": "1.2",
     "compatibility": {
         "minimum": "10",
-        "verified": "11.304"
+        "verified": "12.327"
     },
     "scripts": ["scrumptious.js"],
     "relationships": {
